@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWrapper", "ApiWrapper.csproj", "{75E59426-A2C0-45CB-88CA-7399F82C2658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E59426-A2C0-45CB-88CA-7399F82C2658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E59426-A2C0-45CB-88CA-7399F82C2658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E59426-A2C0-45CB-88CA-7399F82C2658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E59426-A2C0-45CB-88CA-7399F82C2658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF652E42-91D5-4DA4-9181-3F3304C3843E}
+	EndGlobalSection
+EndGlobal
